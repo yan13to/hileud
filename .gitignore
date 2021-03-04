@@ -4,3 +4,4 @@
 /pkg/
 /tmp/
 .byebug_history
+Gemfile.lock
